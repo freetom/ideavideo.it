@@ -1,19 +1,19 @@
 function setup_mobile(){
-  fix_common()
+    fix_common()
 
-  getById('dicono-di-me-span').style.textAlign = 'center'
-  getById('dicono-di-me-span').style.marginLeft = '10%'
-  //getById('dicono-di-me-span').style.align = 'center'
+    getById('dicono-di-me-span').style.textAlign = 'center'
+    getById('dicono-di-me-span').style.marginLeft = '10%'
+    //getById('dicono-di-me-span').style.align = 'center'
 
 
 
-  getById('immagine-sfondo').style.backgroundSize = 'auto 100%'
-  getById('spazi-sotto-immagine-sfondo').innerHTML = '<br><br><br>'
+    getById('immagine-sfondo').style.backgroundSize = 'auto 100%'
+    getById('spazi-sotto-immagine-sfondo').innerHTML = '<br><br><br>'
 
-  lines = document.getElementsByClassName('line-dicono')
-  for(i=0;i<lines.length;i+=0){
+    lines = document.getElementsByClassName('line-dicono')
+    for(i=0;i<lines.length;i+=0){
         lines[i].className = ''
-  }
+    }
 
     elements = document.getElementsByClassName('dice-di-me')
     for(i=0;i<elements.length;i+=0){
@@ -23,7 +23,7 @@ function setup_mobile(){
         elements[i].style.float = ''
         elements[i].style.marginTop = ''
         elements[i].style.marginRight = ''
-      elements[i].className = ''
+        elements[i].className = ''
 
 
     }
