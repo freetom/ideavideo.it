@@ -17,13 +17,14 @@ function setup_mobile(){
 
     elements = document.getElementsByClassName('dice-di-me')
     for(i=0;i<elements.length;i+=0){
-      elements[i].className = ''
-      elements[i].width = '90%' //window.screen.width+'px'
-      elements[i].style.marginLeft = '0px'
+        elements[i].width = '90%' //window.screen.width+'px'
+        elements[i].style.marginLeft = '0px'
 
-      elements[i].style.float = ''
-      elements[i].style.marginTop = ''
-      elements[i].style.marginRight = ''
+        elements[i].style.float = ''
+        elements[i].style.marginTop = ''
+        elements[i].style.marginRight = ''
+      elements[i].className = ''
+
 
     }
 }
