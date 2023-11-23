@@ -356,10 +356,10 @@ function setup_top_menu(){
 
 function setup(){
 
-   /*if(document.URL.substring(0, document.URL.indexOf(':')) != 'https'){
+   if(document.URL.substring(0, document.URL.indexOf(':')) != 'https'){
        window.location.href = 'https://www.ideavideo.it/index.html'
        return
-   }*/
+   }
 
   // the order is IMPORTANT
   // gotta run check_mobile() before setup_top_menu()
