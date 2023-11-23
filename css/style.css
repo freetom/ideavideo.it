@@ -104,3 +104,30 @@ html, body{
   margin-left:20%;
   display:block;
 }
+
+
+.container{
+   
+  flex: 0 0 50%;
+  flex-direction: row;
+  border: 2px solid rgb(255, 138, 36);
+
+  block-size: fit-content;
+
+
+}
+
+.line{
+  display: flex;
+  margin-left: 10%;
+  text-align: left;
+  width:50%
+}
+
+.line-dicono{
+  display: flex;
+  margin-left: 0%;
+  text-align: left;
+  width:100%;
+  background:white;
+}
