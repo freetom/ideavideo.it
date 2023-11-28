@@ -61,7 +61,7 @@ function fix_menu(){
     top_table_mobile.appendChild(row)
     top_table_mobile_2.appendChild(row2)
 
-    top_table_mobile.style.display = 'block'
+    top_table_mobile.style.display = 'table'
 
     top_table.rows[0].deleteCell(1)
     top_table.rows[0].deleteCell(1)

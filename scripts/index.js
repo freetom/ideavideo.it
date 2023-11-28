@@ -372,11 +372,11 @@ function setup(){
 
     setup_top_menu()
 
-    //for zoom detection
-    addEventListener("resize", (event) => {
-        getById('showreel').width = window.screen.width;
+    if (getById('showreel') !== undefined)
+        addEventListener("resize", (event) => { //for zoom detection
+            getById('showreel').width = window.screen.width;
 
-    });
+        });
 
 
 

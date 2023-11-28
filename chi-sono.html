@@ -85,7 +85,7 @@
 
 
     .guide{
-        margin-right:10%;
+        margin-right:7%;
     }
 
 
@@ -100,6 +100,12 @@
     <link rel="shortcut icon" href="favicon.ico"/>
     <link rel='stylesheet' href='css/style.css' />
 
+    <script type="text/javascript">
+    window.onresize = function(){
+      setup_tablet()
+    }
+    </script>
+
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta lang="en" name="description" content="Production and editing of 4K films. Underwater photos and videos. Company promotional videos, for events, hotels or touristic. Quality experiences, contact me!"/>
     <meta name="author" content="Tomas Bortoli">
@@ -108,7 +114,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chi Sono</title>
 </head>
-<body>
+<body onload="setup_tablet()">
+    <div id="wrapper">
     <div class="common-block block">
         <div style="position:absolute;z-index:200;margin-top:0;margin-left:0;">
             <img id="ita-flag" src="./images/flag-it.png" width="60px" height="30px" style="position:relative;z-index:9999;cursor:pointer;margin:auto;"/>
@@ -540,6 +547,6 @@
 
                                                     </tbody>
                                                 </table>
-
+                                            </div>
                                             </body>
                                             </html>
