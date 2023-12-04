@@ -181,11 +181,11 @@ var translations = {
         'riprese-subaquee-2': `<p>With over 8,000 dives in the various Oceans and Lakes I have developed every high quality underwater shooting technique in any underwater environment.</p>
         <p>I worked with the BBC in the "Shark" series, with Planet Sea for over a hundred bets and many other national and international television broadcasts I still work with. I make technical footage for environmental institutes and for companies with specific underwater products. Discover my showreel and enjoy the big BLUE!</p>`,
         'info-drone' : 'Aerial drone shooting',
-        'info-drone-2': `Do you want to join the emotions of your territory to your company? <br> Promove it with a Professional Video! <br> I am available for aerial video and photos, indoors and outdoors... `,
+        'info-drone-2': `Do you want to join the emotions of your territory to your company? <br> Promote it with a Professional Video! <br> I am available for aerial video and photos, indoors and outdoors... `,
         'video-hotel': 'Video Hotel &amp; Resort',
         'video-hotel-2': `Video of your facility and services at the highest quality <br>and with the possibility to get an aerial shooting too.<br>
         The video presentation can be enriched with an immense archive...<br>
-        Promove it with a Professional Video<br>
+        Promote it with a Professional Video<br>
         I am available for aerial video and photo shootings indoors and outdoors</br>`,
         'video-aziendali': 'Promotional videos for companies',
         'video-aziendali-2': `The company video for the promotion of the products and company's identity.
