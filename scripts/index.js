@@ -131,7 +131,6 @@ var translations = {
         'lista-premi': `<span  class="text-orange">Premi Nazionali e Internazionali</span><br><br>
         <img src="./images/chi-sono/awards.png" > 2 Palma d’Oro al festival Mondiale – Antibes Francia<br>
         <img src="./images/chi-sono/awards.png" > 2° premio (Palma d'Argento) al "40° Festival Mondial De L'Image Sous Marine”, Marsiglia 2013<br>
-        <img src="./images/chi-sono/awards.png" > 2° premio (Palma d'Argento) al "40° Festival Mondial De L'Image Sous Marine”, Marsiglia 2013<br>
         <img src="./images/chi-sono/awards.png" > Premio internazionale video "Idea” SUWFF, a Belgrado, Serbia<br>
         <img src="./images/chi-sono/awards.png" > 1° premio categoria professional "Carins Underwater Film Festival”, Australia<br>
         <img src="./images/chi-sono/awards.png" > 2° posto categoria professional "Marmara Underwater Festival”, Turchia<br>
@@ -287,7 +286,6 @@ var translations = {
         'lista-premi': `<span  class="text-orange">National and International Prizes</span><br><br>
         <img src="./images/chi-sono/awards.png" > 2 Palma d’Oro al festival Mondiale – Antibes Francia<br>
         <img src="./images/chi-sono/awards.png" > 2° prize (Palma d'Argento) al "40° Festival Mondial De L'Image Sous Marine”, Marsiglia 2013<br>
-        <img src="./images/chi-sono/awards.png" > 2° prize (Palma d'Argento) al "40° Festival Mondial De L'Image Sous Marine”, Marsiglia 2013<br>
         <img src="./images/chi-sono/awards.png" > prize internazionale video "Idea” SUWFF, a Belgrado, Serbia<br>
         <img src="./images/chi-sono/awards.png" > 1° prize professional category "Carins Underwater Film Festival”, Australia<br>
         <img src="./images/chi-sono/awards.png" > 2° place professional category "Marmara Underwater Festival”, Turchia<br>
@@ -303,7 +301,7 @@ var translations = {
         <img src="./images/chi-sono/awards.png" > prize Coastal Culture "San Francisco International Ocean Film Festival”<br>
         <img src="./images/chi-sono/awards.png" > 1° prize "Festival de l'Image Susmarine” , Marsiglia 2012<br>
         <img src="./images/chi-sono/awards.png" > 1° prize ”International Festival” ,Belgrado 2012<br>
-        <img src="./images/chi-sono/awards.png" > spcieal prize documentary on animals "Festival Internazionale Antibes", 2006<br>
+        <img src="./images/chi-sono/awards.png" > special prize documentary on animals "Festival Internazionale Antibes", 2006<br>
         <img src="./images/chi-sono/awards.png" > 2° place "Festival Internazionale Pelagos” Roma, 2005<br>
         <img src="./images/chi-sono/awards.png" > special prize for the "Miglior Documentario" Genova, 2005<br>
         <img src="./images/chi-sono/awards.png" > special prize of the jury "Festival Internazionale Antibes”, 2005<br>
@@ -323,6 +321,152 @@ var translations = {
         <img src="./images/chi-sono/awards.png" > 1° prize "Amalfi", 1997<br>
         <br><br>`
 
+    },
+
+    de : {
+        'menu-servizi': 'Dienstleistungen',
+        'menu-chi-sono': 'Wer bin ich',
+        'menu-dicono-di-me': 'Über mich',
+        'menu-contatti': 'Kontakte',
+        'menu-shop': 'Geschäft',
+        'chi-sono-home': '<br><i>Mein Job? Ich schaffe Bilder, die erzählen, wer ich bin und wie ich arbeite.</i><i><br></i><i>Die Augen sehen, die Kamera zeichnet auf und ich fange Emotionen ein! </i><i><br><br></i><i>&nbsp;</i><b>Manfred Bortoli</b><br><br>',
+
+        'riprese-subaquee':'Fotos und Videos unter Wasser',
+        'riprese-subaquee-2': `<p>Mit über 8.000 Tauchgängen in verschiedenen Gewässern, Rund um den gesamten Globus habe ich sämtliche Qualität Unterwasser-Fototechnik in jeder Unterwasserumgebung entwickelt..</p>         <p>In Zusammenarbeit mit BBC in der „Shark“-Serie, mit Planet Sea und vielen anderen nationalen und internationalen Fernsehsendungen habe ich viel Erfahrung gesammelt. Meine Arbeit besteht auch darin technisches Filmmaterial für Umweltinstitute und für Unternehmen mit speziellen Unterwasserprodukten zu erstellen. Entdecken Sie mein Showreel und genießen Sie das große BLAU, welches ich für Sie eingefangenen habe!</p>`,
+        'info-drone' : 'Luftaufnahmen mit Drohnen',
+        'info-drone-2': `Möchten Sie die Emotionen Ihrer Region mit Ihrem Unternehmen verbinden? <br> Bewerben Sie es mit einem professionellen Video! <br> Ich stehe für Luftaufnahmen und Luftaufnahmen im Innen- und Außenbereich zur Verfügung... `,
+        'video-hotel': 'Video Hotel &amp; Resort',
+        'video-hotel-2': `Videos Ihrer Einrichtung und Dienstleistungen in höchster Qualität und mit Möglichkeiten für atemberaubende Luftaufnahmen..<br> The video presentation can be enriched with an immense archive...<br> Die Videopräsentation kann mit einem riesigen Archiv bereichert werden...        Promote it with a Professional Video<br>Bewerben Sie Ihre Anlage auf ganz neue Art mit einem professionellen Video.</br>Ich stehe für Luftbild-Video- und Fotoaufnahmen im Innen-und Außenbereich zur Verfügung.`,
+        'video-aziendali': 'Werbevideos für Unternehmen',
+        'video-aziendali-2': `Unternehmensvideos zur Förderung ihrer Produkte und zur Findung Ihrer ganz neuen Unternehmens -Identität. <br>Grundlegendes Werkzeug, um sich auf dem aktuellen Markt zu differenzieren.... `,
+        'video-on-demand': 'Video auf Nachfrage',
+        'video-on-demand-2': `Benötigen Sie ein maßgeschneidertes personalisiertes Video für Ihre ganz eigenen Bedürfnisse??<br> Fragen Sie uns nach einem kostenlosen Angebot! In Kürze beantworten wir all Ihre Fragen.?<br>
+        <br>
+        <br>
+        <br>`,
+        'made-videos': 'Realisierte Videos',
+        'made-videos-2': 'Das nächste Projekt könnte Ihres sein!',
+        'partners': 'Unsere Partner',
+        'partners-2': 'Entdecken Sie, wer uns sein Vertrauen geschenkt hat!',
+        'contatti-dettagli': `<br>
+        <br>
+        Kontakte:`,
+        'contatti-dettagli-2': `<img src="./images/contatti/direttore.png" />&nbsp;&nbsp;<b>Manfred Bortoli<br>
+        <img src="./images/contatti/cellulare.png" />&nbsp;&nbsp;+39 3471597760<br>
+        <img src="./images/contatti/dove-siamo.png" />&nbsp;&nbsp;Idea Video</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Via Caose, 21, 31030,<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borso del Grappa (TV) Italien<br>
+        <img src="./images/contatti/email.png" />&nbsp;&nbsp;info@ideavideo.it (ALLGEMEINE INFORMATION)<br>
+        <img src="./images/contatti/email.png" />&nbsp;&nbsp;manfred@ideavideo.it (PRODUKTIONSINFO)<br>
+        <img src="./images/contatti/email.png" />&nbsp;&nbsp;amministrazione@ideavideo.it (VERWALTUNGSINFORMATIONEN)<br>
+        <img src="./images/contatti/sito-internet.png" />&nbsp;&nbsp;www.ideavideo.it<br>
+        Umsatzsteuer-Identifikationsnummer: IT 03906050269<br>`,
+        'contatti-dettagli-2-mobile': `<img src="./images/contatti/direttore.png" />&nbsp;&nbsp;<b>Manfred Bortoli<br>
+        <img src="./images/contatti/cellulare.png" />&nbsp;&nbsp;+39 3471597760<br>
+        <img src="./images/contatti/dove-siamo.png" />&nbsp;&nbsp;Idea Video</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Via Caose, 21, 31030,<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borso del Grappa<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(TV) Italien<br>
+        <img src="./images/contatti/email.png" />&nbsp;&nbsp;info@ideavideo.it<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ALLGEMEINE INFORMATION)<br>
+        <img src="./images/contatti/email.png" />&nbsp;manfred@ideavideo.it<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(PRODUKTION)<br>
+        <img src="./images/contatti/sito-internet.png" />&nbsp;&nbsp;www.ideavideo.it<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Umsatzsteuer-Identifikationsnummer:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IT 03906050269<br>`,
+
+
+        'bottom-menu': `<a href="index.html" style="color:
+        #FFFFFF;text-decoration: none;">Heim | </a><a
+        href="index.html#servizi" style="color:
+        #FFFFFF;text-decoration: none;">Services</a> | <a
+        href="chi-sono.html" style="color:
+        #FFFFFF;text-decoration: none;">Wer bin ich</a> | <a
+        href="dicono-di-me.html" style="color: #FFFFFF;text-decoration:
+        none;">Über mich</a> | <a href="contatti.html" style="color: #FFFFFF;text-decoration:none;">Kontakte</a>`,
+        'rights': 'Alle Rechte vorbehalten. Website codiert von Tomas Bortoli.',
+        'indirizzo': `IDEAVIDEO von Bortoli Manfred<br>
+        Via Caose 21, Borso del Grappa, 31030 (TV) Italien<br>`,
+        'partita-iva': 'Umsatzsteuer-Identifikationsnummer: IT 03906050269 - Mobile: +39 3471597760',
+
+
+        'dicono-di-me-header': 'Über mich',
+        'dice-di-me-1': 'Projektmanager <br>Park des Wadi El Gemal"',
+        'dice-di-me-1-1': '"Dienstleistungen und Umgebung wurden angemessen zusammengefasst, damit die Kunden die Philosophie unserer Gastfreundschaft verstehen können. Mit Videos haben wir die Kontakte um 40 % gesteigert und wissen, dass sie die Wahrheit repräsentieren!"',
+        'dice-di-me-2': 'Autor von <br> „Die Insel der Berühmten“',
+        'dice-di-me-2-1': '"Ich habe mit Manfred an der Produktion von Planet Sea für den Sender Rete4 gearbeitet, dessen Autor und Regisseur ich bin. Seine Aufnahmen sind flüssig, mit guten Silhouettenspielen und Makroaufnahmen, die so wirken, als würden sie in den Körper von Organismen eindringen ... Eine großartige Reise in die Unterwasserwelt."',
+        'dice-di-me-3': 'Regisseur',
+        'dice-di-me-3-1': '"Ich habe mit Manfred an der Produktion von Planet Sea für den Sender Rete4 gearbeitet, dessen Autor und Regisseur ich bin. Seine Aufnahmen sind flüssig, mit guten Silhouettenspielen und Makroaufnahmen, die so wirken, als würden sie in den Körper von Organismen eindringen ... Eine großartige Reise in die Unterwasserwelt."',
+        'dice-di-me-4': 'Byologe',
+        'dice-di-me-4-1': '"Kreativität und Einfühlungsvermögen für die wilden Tiere sind die beiden Worte, die die Arbeit von Manfred am besten beschreiben: Aufmerksamkeit für das, was die Tiere tun, Aufmerksamkeit bei der Annäherung und ein wenig Fantasie sind der Schlüssel zum Erfolg beim Filmen von Tieren."',
+        'dice-di-me-5': 'Autor',
+        'dice-di-me-5-1': '"Wir haben mit der Ausgabe der Insel der Berühmten zusammengearbeitet. Manfreds Aufnahmen haben die Karibik noch faszinierender gemacht. Toller Unterbetreiber. Und nett ist er auch!"',
+        'dice-di-me-6-1': '"Viel Fantasie, großes Geschick und die große Fähigkeit, das Ziel des Projekts in den Mittelpunkt zu stellen, sind erforderlich. Das sind die Eigenschaften, die es ihm ermöglichen, großartige Videos zu erstellen."',
+        'dice-di-me-7': 'Regisseur"',
+        'dice-di-me-7-1': '"Ich habe mit Manfred an der Produktion von Planet Sea für den Sender Rete4 gearbeitet, dessen Regisseur ich bin. Ich denke, er ist ein großartiger Unterwasserführer mit großer Initiative und einem ausgeprägten Hang zur Problemlösung. Ausschlaggebend finde ich auch seine Erfahrung im Allgemeinen und in der Videobearbeitung im Besonderen."',
+        'dice-di-me-8': 'Präsident der „Freunde der Solidarität“."',
+        'dice-di-me-8-1': '"Oftmals im sozialen Bereich, improvisierte Videos und Fotos. Die professionelle Zusammenarbeit mit Manfred hat es uns ermöglicht, unsere Professionalität mit Professionalität unter Beweis zu stellen. Kein Kostenfaktor, aber ein nützlicher Service, um uns zu vertreten."',
+
+        'chi-sono': 'Wer bin ich',
+        'chi-sono-2': 'Meeresliebhaber, Unterwasserfilmer, Fotograf, freiberuflicher Kameramann, Kameramann für Drohnenaufnahmen, Dokumentarfilmproduzent.<br>Einige meiner Arbeiten finden Sie bei internationalen Agenturen wie Getty Images, SimePhoto, Pond5, Shutterstock, 4Corners und mehr ...',
+        'immersioni': 'Unterwassertauchgänge und mehr: Nachttauchgänge, in Flüssen, in Unterwasserhöhlen, in Seen, hoch oben in den Bergen, unter dem Eis und Trimix.',
+        'fotografie': 'Professionelle Fotos, veröffentlicht in renommierten Unterwasserführerbüchern.',
+        'puntate-pianeta-mare': 'Episoden von „Pianeta Mare“, realisiert als Unterwasserkameramann für Mediaset.',
+        'puntate-abissi': 'Episoden von „Abissi RAI2“ als Taucher realisiert',
+        'premi-nazionali': 'Internationale und nationale Preise erhalten und gewonnen',
+        'documentari': 'Und über professionell realisierte Dokumentationen für Fernsehproduzenten.',
+        'sea-shepherd': `<span  class="text-orange">Taucher für die Ozeane: Sea Shepherd</span><br>
+        Ideavideo engagiert seit Anbeginn für den Respekt vor der Umwelt und die Zusammenarbeit mit Verbänden zum Schutz unseres Planeten.<br> Die von uns benötigte Energie, wird vollständig mit einer Photovoltaikanlage erzeugt..<br><br>
+        <img src="./images/chi-sono/divers-for-the-oceans.png" width="100%"><br><br>
+        <p>Wir unterstützen Vereine wie Sea Shepherd und Divers for the Oceans.</p>
+        <p>Über Sea Shepherd haben wir „The Trip“ veröffentlicht, einen Dokumentarfilm mit didaktischen Zwecken.</p>
+        <p>Freiwillige nutzen es in Schulen, um das Bewusstsein für die Umweltprobleme der Ozeane zu schärfen.</p>
+        <p>Im Mai 2014 drehten wir einen Film für die Kampagne von Sea Shepherd mit dem Titel:<br>
+        "Stoppen Sie das Massaker in den Buchten, stoppen Sie das Töten"</p>
+        <p>Wir haben zusammengearbeitet, um das Video für Kapitän Peter Hammarstedt und einige der größten Freitaucher der Welt zu realisieren, darunter Enzo Maiorca, Patrizia Maiorca, Herbert Nitsch, Gianluca Genoni und Mike Maric.</p>
+        `,
+        'lista-documentari': `<span  class="text-orange">Weitere TV-Kooperationen und Dokumentationen</span><br>
+        Bildlieferant für die BBC (UK) für die Serie „Shark Natural History Unit“.<br>
+        Anbieter von Dokumentationen für Geo & Geo Rai 3 bis 2021.<br>
+        <p>Ich habe die folgenden Dokumentarfilme gemacht:</p>
+        <p>"Il Viaggio", "Il Gigante e il Pescatore", "Il triangolo degli Asparagi", "Alpe Madre", "I tesori del Sile", "Pianeta Sinai", "Il giardino di Allah", "Le pietre raccontano", "Olm il piccolo drago", "Tsunami the day after", "Shark feeding il processo", "Coral reef", "Le formelle di Jesi" , "Isonzo d'oro e di smeraldo (tra i gioielli del collio)",  "Il Piave tra le montagne e il mare" e " Maldive, alla scoperta di Feridhoo".</p>
+        <p>Ich habe alle Unterwasserbilder für „Isola dei Famosi 8 (2011 Edition)“ in den Spielen, in Day Time und während aller Leben gemacht.</p>
+        <p>Weitere Bilder wurden im Fernsehen auf TMC, Odeon Tv, Rai 2 „Vivere il mare“ und auf Rete 4 (La Macchina del Tempo), Disney Channel, Rai Sat, Alle falde del Kilimangiaro, BBC, Arte, National Geographic, Canal Plus ausgestrahlt. .. und vieles mehr.</p>`,
+        'lista-libri': `<span  class="text-orange">Unterwasserführer</span><br>
+        "Sharm el Sheikh Diving Guide”, "Hurgada e Safaga”, "Taba e Dahab", "Guide Snorkel di Sharm e Hurgada”,  "Pesci del Mar Rosso”, "I Grandi Relitti”, "Giardino di Corallo” e "Sinai Diving Guide vol.1", "Atlante della Fauna Marina del Mar Rosso, di Attilio Rinaldi".<br><br></span>`,
+        'lista-premi': `<span  class="text-orange">Nationale und internationale Preise</span><br><br>
+        <img src="./images/chi-sono/awards.png" > 2. Palma d’Oro al festival Mondiale – Antibes Frankreich<br>
+        <img src="./images/chi-sono/awards.png" > 2. Preis (Palma d'Argento) beim „40° Festival Mondial De L'Image Sous Marine“, Marsiglia 2013<br>
+        <img src="./images/chi-sono/awards.png" > Preis für internationales Video „Idee“ SUWFF, Belgrad, Serbien<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis in der professionellen Kategorie „Carins Underwater Film Festival“, Australien<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz in der Berufskategorie „Marmara Underwater Festival“, Türkei<br>
+        <img src="./images/chi-sono/awards.png" > Internationaler Preis und Video „Idee“ SUWFF, Belgrad, Serbien<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz in der Berufskategorie „Festival PAF“, Tachov 2014<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Marmara Festival“, Istanbul<br>
+        <img src="./images/chi-sono/awards.png" > 2. Preis „Ocean Geographic Competition“, 2013<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis Kurzdokumentationen (Camogli) „International Marine Reserves Film Festival“<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz in der Berufskategorie „MIMA“ Spanien, 2014<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Kategorie Unabhängige Produzenten“, Belgrad<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Kategorie Kurzdokumentationen“."<br>
+        <img src="./images/chi-sono/awards.png" > Pelagos International Festival“ Roma<br>
+        <img src="./images/chi-sono/awards.png" > Preis Küstenkultur „San Francisco International Ocean Film Festival“<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Festival de l'Image Susmarine“, Marsiglia 2012<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Internationales Festival“, Belgrad 2012<br>
+        <img src="./images/chi-sono/awards.png" > Sonderpreis für Dokumentarfilm über Tiere „Festival Internazionale Antibes“, 2006<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz „Festival Internazionale Pelagos“ Rom, 2005<br>
+        <img src="./images/chi-sono/awards.png" > Sonderpreis für den „Miglior Documentario“ Genua, 2005<br>
+        <img src="./images/chi-sono/awards.png" > Sonderpreis der Jury „Festival Internazionale Antibes“, 2005<br>
+        <img src="./images/chi-sono/awards.png" > Preis der jungen Jury „Festival Internazionale Antibes“, 2005<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Celebrate the Sea“, Kuala Lumpur, Malaysia, 2003<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Setmana Internacional Image Susmarina“ Spanien, 2002<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Großer Preis Sisa de Oro“ Isole Canarie, 2002<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Festival de l'Image Susmarine“, Antibes 2001<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz „Image“ Inghilterra, 2001<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Pelagos“ Roma, 2001<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Lugano“, Schweiz 2001<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Excelsior“ Targa Parlamento Europeo Sezione Documentari Roma, 1999<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis Genua, 1999<br>
+        <img src="./images/chi-sono/awards.png" > Preis „Brigitte Cruickshank, Festival de l'Image Susmarine“ Antibes, 1999<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Festival de l'Image Susmarine“, Antibes, 1999<br>
+        <img src="./images/chi-sono/awards.png" > 2. Platz „Lugano“, Schweiz 1998<br>
+        <img src="./images/chi-sono/awards.png" > 1. Preis „Amalfi“, 1997<br>
+        <br><br>`
     }
 }
 
@@ -378,8 +522,6 @@ function setup(){
 
         });
 
-
-
     //setup scroll
     //window.onscroll = function(){
     //var scrollTop = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
@@ -394,12 +536,20 @@ function set_lang(lang){
         translate('it')
         document.getElementById('ita-flag').style.border = '5px solid #FF8A24'
         document.getElementById('uk-flag').style.border = '5px solid white'
+        document.getElementById('de-flag').style.border = '5px solid white'
+    }
+    else if (lang== 'de'){
+        translate('de')
+        document.getElementById('de-flag').style.border = '5px solid #FF8A24'
+        document.getElementById('uk-flag').style.border = '5px solid white'
+        document.getElementById('ita-flag').style.border = '5px solid white'
     }
     else{
         //localStorage.setItem("lang", "en");
         translate('en')
         document.getElementById('uk-flag').style.border = '5px solid #FF8A24'
         document.getElementById('ita-flag').style.border = '5px solid white'
+        document.getElementById('de-flag').style.border = '5px solid white'
     }
 }
 
@@ -409,6 +559,9 @@ function setup_translate(){
     }
     document.getElementById('uk-flag').onclick = function(){
         set_lang('en')
+    }
+    document.getElementById('de-flag').onclick = function(){
+        set_lang('de')
     }
 
     /*lang = localStorage.getItem('lang')
@@ -430,12 +583,21 @@ if (!userLocale.toLowerCase().includes('it')){
     translate('en')
     document.getElementById('uk-flag').style.border = '5px solid #FF8A24'
     document.getElementById('ita-flag').style.border = '5px solid white'
+    document.getElementById('de-flag').style.border = '5px solid white'
+
+}
+else if(userLocale.toLowerCase().includes('de') ){
+    translate('de')
+    document.getElementById('de-flag').style.border = '5px solid #FF8A24'
+    document.getElementById('ita-flag').style.border = '5px solid white'
+    document.getElementById('uk-flag').style.border = '5px solid white'
 
 }
 else{
     translate('it')
     document.getElementById('ita-flag').style.border = '5px solid #FF8A24'
     document.getElementById('uk-flag').style.border = '5px solid white'
+    document.getElementById('de-flag').style.border = '5px solid white'
 }
 //}
 }
