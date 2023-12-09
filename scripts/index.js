@@ -403,7 +403,7 @@ var translations = {
         'dice-di-me-8': 'Präsident der „Freunde der Solidarität“."',
         'dice-di-me-8-1': '"Oftmals im sozialen Bereich, improvisierte Videos und Fotos. Die professionelle Zusammenarbeit mit Manfred hat es uns ermöglicht, unsere Professionalität mit Professionalität unter Beweis zu stellen. Kein Kostenfaktor, aber ein nützlicher Service, um uns zu vertreten."',
 
-        'chi-sono': 'Wer bin ich',
+        'chi-sono': 'Wer bin ich / Das bin ich',
         'chi-sono-2': 'Meeresliebhaber, Unterwasserfilmer, Fotograf, freiberuflicher Kameramann, Kameramann für Drohnenaufnahmen, Dokumentarfilmproduzent.<br>Einige meiner Arbeiten finden Sie bei internationalen Agenturen wie Getty Images, SimePhoto, Pond5, Shutterstock, 4Corners und mehr ...',
         'immersioni': 'Unterwassertauchgänge und mehr: Nachttauchgänge, in Flüssen, in Unterwasserhöhlen, in Seen, hoch oben in den Bergen, unter dem Eis und Trimix.',
         'fotografie': 'Professionelle Fotos, veröffentlicht in renommierten Unterwasserführerbüchern.',
