@@ -1,7 +1,8 @@
 function setup_tablet(){
     const userAgent = navigator.userAgent.toLowerCase();
-    const isTablet = /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(userAgent);
-    if (isTablet){
+    const isTablet = /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/i.test(userAgent);
+    const isIpad = navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /MacIntel/.test(navigator.platform)
+    if (isTablet || isIpad){
         // if landscape
         if(window.innerHeight < window.innerWidth){
             document.getElementsByClassName('block3')[0].style.marginTop = '110%'
@@ -15,6 +16,13 @@ function setup_tablet(){
             document.getElementsByClassName('block4')[0].style.marginTop = '135%'
             document.getElementsByClassName('block5')[0].style.marginTop = '110%'
             getById('bottom-table').style.marginTop = '280%'
+        }
+
+        if(isIpad){
+            elems = document.getElementsByClassName('common-block')
+            for(i=0;i<elems.length;i++){
+                elems[i].style.backgroundAttachment = 'scroll'
+            }
         }
     }
 }
