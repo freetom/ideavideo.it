@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /index.html
+Allow: /chi-sono.html
+Allow: /dicono-di-me.html
+Allow: /contatti.html
+Allow: /shop
+Disallow: 
