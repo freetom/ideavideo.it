@@ -5,6 +5,7 @@ var translations = {
         'menu-servizi': 'SERVIZI',
         'menu-chi-sono': 'CHI SONO',
         'menu-dicono-di-me': 'DICONO DI ME',
+        'menu-documentari': 'DOCUMENTARI',
         'menu-contatti': 'CONTATTI',
         'menu-shop': 'SHOP',
         'chi-sono-home': '<br><i>Il mio lavoro? Creo immagini che raccontano chi sono e come lavoro.</i><i><br></i><i>L\'occhio vede, la videocamera riprende e io catturo emozioni! </i><i><br><br></i><i>&nbsp;</i><b>Manfred Bortoli</b><br><br>',
@@ -172,6 +173,7 @@ var translations = {
         'menu-servizi': 'SERVICES',
         'menu-chi-sono': 'WHO AM I',
         'menu-dicono-di-me': 'ABOUT ME',
+        'menu-documentari': 'DOCUMENTARIES',
         'menu-contatti': 'CONTACTS',
         'menu-shop': 'SHOP',
         'chi-sono-home': '<br><i>My job? I create images that tell who I am and how I work.</i><i><br></i><i>The eyes see, the camera records and I capture emotions! </i><i><br><br></i><i>&nbsp;</i><b>Manfred Bortoli</b><br><br>',
@@ -327,6 +329,7 @@ var translations = {
         'menu-servizi': 'Dienstleistungen',
         'menu-chi-sono': 'Wer bin ich',
         'menu-dicono-di-me': 'Über mich',
+        'menu-documentari': 'Dokumentarfilme',
         'menu-contatti': 'Kontakte',
         'menu-shop': 'Geschäft',
         'chi-sono-home': '<br><i>Mein Job? Ich schaffe Bilder, die erzählen, wer ich bin und wie ich arbeite.</i><i><br></i><i>Die Augen sehen, die Kamera zeichnet auf und ich fange Emotionen ein! </i><i><br><br></i><i>&nbsp;</i><b>Manfred Bortoli</b><br><br>',
@@ -480,6 +483,9 @@ title_translations = {
 function setup_top_menu(){
     document.getElementById('menu-contatti').onclick = function() {
         window.location.href = "contatti.html";
+    }
+    document.getElementById('menu-documentari').onclick = function() {
+        window.location.href = "DocTonnoRosso/index.html";
     }
     document.getElementById('menu-dicono-di-me').onclick = function() {
         window.location.href = "dicono-di-me.html";
