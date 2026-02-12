@@ -55,6 +55,11 @@ function fix_menu(){
     cell.style.padding = padding
     row2.appendChild(cell)
 
+    cell  = top_table.rows[0].cells[6].cloneNode(true)
+    cell.className += ' mobile-top-table-td'
+    cell.style.padding = padding
+    row2.appendChild(cell)
+
     //fix top table (where logo is) - or it will be to large for the display
     top_table.rows[0].deleteCell(1)
 
